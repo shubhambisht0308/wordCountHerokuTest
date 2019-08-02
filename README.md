@@ -1,1 +1,1 @@
-Deploted to https://word-count-test.herokuapp.com/
+Deployed to https://word-count-test.herokuapp.com/

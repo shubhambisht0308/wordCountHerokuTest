@@ -1,1 +1,1 @@
-web: gunicorn HerokuTest.wsgi
+web: gunicorn wordcount.wsgi
